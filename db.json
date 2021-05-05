@@ -1,19 +1,12 @@
 {
-  "burgers": [
+  "Forex": [
     {
       "id": 0,
-      "name": "Tribute Burger",
-      "restaurant": "Honest Burgers",
-      "web": "www.honestburgers.co.uk",
+      "name": "USD/INR",
       "description": "A mouth-watering honest beef burger",
-      "ingredients": [
-        "beef",
-        "american cheese",
-        "burger sauce",
-        "french mustard",
-        "pickes",
-        "onion",
-        "lettuce"
+      "Value": [
+        "74.35"
+        
       ],
       "addresses": [
         {
@@ -28,14 +21,11 @@
     },
     {
       "id": 1,
-      "name": "Pulled Mooshie",
-      "restaurant": "Mooshies",
-      "web": "www.veganburger.org",
-      "description": "Spicy vegan burger with jackfruit",
-      "ingredients": [
-        "jackfruit",
-        "coleslaw",
-        "gluten free bun"
+      "name": "USD/EUR",
+      "description": "USD/EUR",
+      "value": [
+       
+        "0.1152"
       ],
       "addresses": [
         {

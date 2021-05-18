@@ -3,40 +3,20 @@
     {
       "id": 0,
       "name": "USD/INR",
-      "description": "A mouth-watering honest beef burger",
+      
       "Value": [
         "74.35"
         
       ],
-      "addresses": [
-        {
-          "addressId": 0,
-          "number": "75",
-          "line1": "Venn Street",
-          "line2": "Clapham",
-          "postcode": "SW4 0BD",
-          "country": "United Kingdom"
-        }
-      ]
-    },
+        },
     {
       "id": 1,
       "name": "USD/EUR",
-      "description": "USD/EUR",
       "value": [
        
         "0.1152"
       ],
-      "addresses": [
-        {
-          "addressId": 0,
-          "number": "104",
-          "line1": "Brick Lane",
-          "line2": "Shoreditch",
-          "postcode": "E1 6RL",
-          "country": "United Kingdom"
-        }
-      ]
+     
     }
    
 

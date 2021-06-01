@@ -1,7 +1,7 @@
 {
-  "name": "burger-api",
+  "name": "api",
   "version": "1.0.0",
-  "description": "My Burger Api",
+  "description": "My  Api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kubowania/burger-api.git"
+    "url": "https://github.com/viswakumaras/Testdata"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kubowania/burger-api/issues"
+    "url": "https://github.com/viswakumaras/Testdata"
   },
-  "homepage": "https://github.com/kubowania/burger-api#readme",
+  "homepage": "https://github.com/viswakumaras/Testdata",
   "dependencies": {
     "json-server": "^0.16.2"
   }
